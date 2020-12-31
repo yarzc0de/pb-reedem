@@ -1,0 +1,25 @@
+{
+  "name": "pb-reedem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarzc0de/pb-reedem.git"
+  },
+  "author": "YarzCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarzc0de/pb-reedem/issues"
+  },
+  "homepage": "https://github.com/yarzc0de/pb-reedem#readme"
+}
